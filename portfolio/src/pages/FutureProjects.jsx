@@ -38,7 +38,7 @@ const futureProjects = [
     ],
   },
   {
-    id: 5,
+    
     id: 5,
     name: "Speech Recognition",
     features: [
